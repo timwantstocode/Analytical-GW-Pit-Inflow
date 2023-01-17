@@ -1,0 +1,11 @@
+Parameter,symbol,value,units,comment
+pit width,a,585,m,
+pit length,b,3100,m,
+distributed recharge,W,5.4e-7,m/d,
+zone 1 horizontal K,kh,0.02,m/d,minimum
+zone 2 horizontal K,kh2,0.002,m/d,
+zone 2 vertical K,kv,0.0002,m/d,
+Height of seepage face, HeightOfSeepageFace,1,mAHD,
+Height of watertable at radius of influence, HeightOfWaterTableAtRadiusOfInfluence,119,mAHD,
+
+
